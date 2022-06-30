@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edgardpachper
 - 👀 I’m interested in learn about Back End
 - 🌱 I’m currently learning HTML, JAVASCRIPT AND CSS
-- 💞️ I’m looking to collaborate on project related whit Back End
+- 💞️ I’m looking to collaborate on project related whit Front End
 - 📫 How to reach me? mail me!
 
 <!---
